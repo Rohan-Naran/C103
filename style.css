@@ -1,0 +1,14 @@
+#Heading{
+    font-weight: bolder;
+    font-size: 100px;
+    font-style: italic;
+    font-variant: small-caps;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+body{
+    background: linear-gradient(to top right, rgb(163, 15, 15), rgb(248, 163, 163));
+}
+.OA{
+    font-style: italic;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
